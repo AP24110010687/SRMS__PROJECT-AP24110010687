@@ -1,0 +1,10 @@
+AP24110011801|Abhishek Singh|CSE|9.0|Present
+|CSE-A
+AP24110010687|Sachin Chauhan|CSE|7.9|Present
+
+
+AP24110011876|Ranveer Singh|CSE|8.7|Present
+
+AP24110011745|Ramesh shah|CSE|7.4|Absent
+
+AP24110011502|Rahib haider|CSE|8.5|Present

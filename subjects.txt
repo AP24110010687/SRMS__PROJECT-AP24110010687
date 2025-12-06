@@ -1,0 +1,6 @@
+CS101|Data Structures|CSE|4
+CS102|Algorithms|CSE|4
+CS103|Database Management|CSE|3
+EC101|Digital Electronics|ECE|4
+ME101|Thermodynamics|ME|3
+

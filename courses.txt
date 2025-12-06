@@ -1,0 +1,4 @@
+CSE|Computer Science Engineering|CSE
+ECE|Electronics and Communication Engineering|ECE
+ME|Mechanical Engineering|ME
+

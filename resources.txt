@@ -1,0 +1,7 @@
+Notes|Data Structures Notes|https://www.geeksforgeeks.org/data-structures/
+Notes|Algorithm Tutorials|https://www.tutorialspoint.com/data_structures_algorithms/
+eBooks|Free Programming Books|https://github.com/EbookFoundation/free-programming-books
+eBooks|Computer Science Textbooks|https://open.umn.edu/opentextbooks/subjects/computer-science-information-systems
+Motivation|Success Stories|https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Motivation|Study Tips|https://www.youtube.com/watch?v=Ilg3gGewQ5U
+

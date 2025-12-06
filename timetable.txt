@@ -1,0 +1,6 @@
+Mon|09:00-10:00|Data Structures|CSE-A|Room-101
+Mon|10:00-11:00|Algorithms|CSE-A|Room-102
+Tue|09:00-10:00|Database Management|CSE-A|Room-103
+
+Mon|9|C++|CSE/U|21
+Mon|9:00|CSE|ECE/U|123
